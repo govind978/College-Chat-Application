@@ -19,6 +19,7 @@ This project is an Android application designed to facilitate group communicatio
 1. Students can manage their own profiles, including their display names, profile pictures, and other relevant information.
 2. The app offers options for leaving or removing members from a group when necessary.
 3. Students have control over their notification preferences to manage their interaction with the app.
+<br>
 **The last two features are yet to be applied.**
 
 # Technology Stack:
